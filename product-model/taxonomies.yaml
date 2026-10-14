@@ -1,0 +1,19 @@
+{
+  "scenarioKinds": [
+    {
+      "id": "primary",
+      "name": "Primary",
+      "description": "Successful established behavior and its alternatives."
+    },
+    {
+      "id": "validation",
+      "name": "Validation",
+      "description": "Refusals of who may act and of invalid input."
+    },
+    {
+      "id": "edge",
+      "name": "Edge",
+      "description": "Conflicts, unreachable folders, unmatched documents and other unavailable dependencies."
+    }
+  ]
+}
